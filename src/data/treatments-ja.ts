@@ -47,7 +47,7 @@ export const contentJa: Record<string, TreatmentContent> = {
         feeling:
           "顔が少し重く感じることがあり、押すと軽い圧痛が残ることがあります。",
         dos: [
-          "クレンジング・メイクは通常通りOK",
+          "クレンジング・メイクは通常通り可",
           "日焼け止め (SPF50 PA+++) を毎日塗布",
           "こまめな水分補給",
           "夜の軽いウォーキング程度は可",
@@ -64,7 +64,7 @@ export const contentJa: Record<string, TreatmentContent> = {
         feeling:
           "大部分の微細反応は消失。肌が軽く感じられるようになります。",
         dos: [
-          "運動、サウナ、日常活動すべてOK",
+          "運動、サウナ、日常活動すべて可",
           "保湿ケアは継続",
           "ビタミンC・コラーゲン豊富な食事を意識的に摂取",
           "必要に応じて保湿ブースターや鎮静ケアをご検討",
@@ -158,7 +158,7 @@ export const contentJa: Record<string, TreatmentContent> = {
         feeling:
           "肌タイプによって、内出血・むくみ・赤みが3〜4週間続くことがあります。",
         dos: [
-          "施術当日のメイクはOK",
+          "施術当日のメイクは可",
           "保湿・再生クリームをこまめに塗布",
           "外出時は日焼け止めが必須",
         ],
@@ -255,7 +255,7 @@ export const contentJa: Record<string, TreatmentContent> = {
         title: "異物感が改善する時期",
         feeling:
           "表情・クレンジング・食事の際の異物感、痛み、突っ張りは4〜8週間かけて徐々に改善します — 自然な過程です。",
-        dos: ["通常の表情や食事はOK"],
+        dos: ["通常の表情や食事は可"],
         donts: [
           "糸が触れる感じがしても、施術部位を押したり触ったりしない",
         ],
@@ -317,7 +317,7 @@ export const contentJa: Record<string, TreatmentContent> = {
           "5-5-5マッサージ: 5日間、1日5回、部位ごとに5分(しこり予防)",
           "マッサージ前に保湿剤を塗って摩擦を減らす",
           "再生テープは翌朝まで維持",
-          "施術当日からクレンジング・メイクOK",
+          "施術当日からクレンジング・メイクは可",
         ],
         donts: [
           "5-5-5マッサージ以外は、1週間ほど過度な刺激やスクラブを避ける",
@@ -387,7 +387,7 @@ export const contentJa: Record<string, TreatmentContent> = {
         when: "施術当日",
         title: "鎮静",
         feeling: "施術後に一時的な内出血やむくみが出ることがあります。",
-        dos: ["施術当日からクレンジング・メイクOK"],
+        dos: ["施術当日からクレンジング・メイクは可"],
         donts: [
           "施術部位への指圧・かっさ・スクラブは避ける",
           "最低1週間は飲酒・喫煙・サウナ・スチームルーム・水泳・激しい運動を避ける",
@@ -458,7 +458,7 @@ export const contentJa: Record<string, TreatmentContent> = {
         when: "施術当日",
         title: "安定化",
         feeling: "一時的な内出血・むくみ・赤みが出ることがあります。",
-        dos: ["施術3時間後からクレンジング・メイクOK"],
+        dos: ["施術3時間後からクレンジング・メイクは可"],
         donts: [
           "施術部位への指圧・かっさ・スクラブは避ける",
           "過度に擦ったり強い刺激を与えない(形の歪みリスク)",
@@ -547,7 +547,7 @@ export const contentJa: Record<string, TreatmentContent> = {
         feeling: "施術後に一時的な内出血やむくみが出ることがあります。",
         dos: [
           "施術後に貼付した再生テープを翌朝まで維持",
-          "施術当日からクレンジング・メイクOK",
+          "施術当日からクレンジング・メイクは可",
           "保湿・再生クリームをこまめに塗布",
         ],
         donts: [
@@ -627,7 +627,7 @@ export const contentJa: Record<string, TreatmentContent> = {
           "施術後に一時的な赤みや熱感が出ることがあります。",
         dos: [
           "熱感が続く場合は軽く冷やすことを推奨",
-          "施術当日からメイクOK",
+          "施術当日からメイクは可",
           "保湿・再生クリームをこまめに塗布",
           "外出時は日焼け止めが必須",
         ],
@@ -796,7 +796,7 @@ export const contentJa: Record<string, TreatmentContent> = {
         when: "施術当日",
         title: "鎮静",
         feeling: "施術後に一時的な内出血やむくみが出ることがあります。",
-        dos: ["施術当日からクレンジングOK"],
+        dos: ["施術当日からクレンジングは可"],
         donts: [
           "メイクは翌日まで延ばすことを推奨",
           "施術部位への指圧・かっさ・スクラブは1週間避ける",
@@ -864,7 +864,7 @@ export const contentJa: Record<string, TreatmentContent> = {
         title: "鎮静",
         feeling:
           "肌タイプによってかゆみ・ヒリヒリ感・赤みが出ることがありますが、通常1〜2日で落ち着きます。",
-        dos: ["施術当日から軽いクレンジング・メイクOK"],
+        dos: ["施術当日から軽いクレンジング・メイクは可"],
         donts: ["施術部位への強い刺激を与えない"],
       },
       {

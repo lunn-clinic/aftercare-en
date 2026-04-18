@@ -250,7 +250,7 @@ export const ui: Record<Lang, UICopy> = {
     forOurPatients: "For Our Patients · 名刺QR専用ページ",
     heroHomeTitle: "施術が終わるその瞬間から、\n結果は始まります",
     heroHomeIntro:
-      "ルン皮膚科で受けられた施術に合わせた、回復のためのカスタマイズガイドです。\n受けられたケアラインをお選びください。",
+      "ルン皮膚科クリニックで受けられた施術に合わせた、回復のためのカスタマイズガイドです。\n受けられたケアラインをお選びください。",
     heroHomeCta: "受けられたケアラインをお選びください",
     backToHome: "← 他のケアラインを見る",
     otherLine: "他のケアラインを見る",
@@ -266,7 +266,7 @@ export const ui: Record<Lang, UICopy> = {
     watchAndWait: "経過観察で大丈夫",
     consultRecommended: "相談をおすすめします",
     selfCheckOutro:
-      "いずれかに当てはまる場合は、ご自身で悩まず、朴衡權院長の診療をお受けください。",
+      "いずれかに当てはまる場合は、ご自身で悩まず、パク・ヒョングォン院長の診療をお受けください。",
     synergyEyebrow: "SYNERGY",
     synergyHeadline1: "単独でも効果はありますが、",
     synergyHeadline2: "組み合わせることで深さが変わります",
@@ -282,14 +282,14 @@ export const ui: Record<Lang, UICopy> = {
     quickNav: "カテゴリーへジャンプ",
     cardGuideCta: "ガイドを見る →",
     footerDisclaimer:
-      "本ガイドはルン皮膚科で施術を受けられた患者様の回復をサポートするためのご案内です。医療相談が必要な場合は、必ずご来院のうえ朴衡權院長の診療をお受けください。",
+      "本ガイドはルン皮膚科クリニックで施術を受けられた患者様の回復をサポートするためのご案内です。医療相談が必要な場合は、必ずご来院のうえパク・ヒョングォン院長の診療をお受けください。",
     criticalKey: "KEY · 01",
     heroSubtitleHome: "For Our Patients · 名刺QR専用ページ",
     homeLineTitle: "AFTERCARE GUIDE",
     homeLineLead:
-      "ルン皮膚科で受けられた施術に合わせた、回復のためのカスタマイズガイドです。",
+      "ルン皮膚科クリニックで受けられた施術に合わせた、回復のためのカスタマイズガイドです。",
     patientInstruction:
-      "本ガイドはルン皮膚科で施術を受けられた患者様向けのご案内です。ご自身のケアラインが不明な場合は、受付までお問い合わせください。",
+      "本ガイドはルン皮膚科クリニックで施術を受けられた患者様向けのご案内です。ご自身のケアラインが不明な場合は、受付までお問い合わせください。",
     langSwitchLabel: "言語",
     categories: {
       lifting: "リフティング·タイトニング",
